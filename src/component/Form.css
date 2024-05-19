@@ -1,0 +1,25 @@
+.card {
+    height: 615px;
+}
+
+.card input {
+    border: 1px solid black;
+}
+
+.card img {
+    height: 615px;
+    border-radius: 15px;
+    border-right: 2px solid black;
+}
+
+@media screen and (max-width:850px) {
+    .logintext {
+        margin-top: 3px;
+    }
+}
+
+/* .image img {
+    height: 800px;
+    z-index: 11111;
+    display: block;
+} */
